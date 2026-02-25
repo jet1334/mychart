@@ -1,4 +1,5 @@
 image:
-   tag:1.28
+   tag:1.27
+repicaCount: 2
 env:
-   APP_ENV: prod
+   APP_ENV: dev
